@@ -1,7 +1,7 @@
 {
   "name": "grunt-iconv",
   "description": "change file encoding",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/amdgigabyte/grunt-iconv",
   "author": {
     "name": "amdgigabyte",
